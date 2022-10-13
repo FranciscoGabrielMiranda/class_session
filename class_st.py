@@ -6,6 +6,7 @@ import pickle
 
 # # Opening intro text
 st.write("# Predict Sales✨")
+st.write("## Que boludez")
 st.write("### Determine the scenario 🎛️:")
 
 # Price of the product
